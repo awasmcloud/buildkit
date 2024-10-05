@@ -21,7 +21,7 @@ The ID of the release that is created when the build completes.
 ## Todo : update configurations
 Example usage
 ```
-uses: awasmcloud/build@v1
+uses: awasmcloud/buildkit@v1
 with:
   regions: usa, eu, japan
   env: staging
